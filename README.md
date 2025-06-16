@@ -22,6 +22,9 @@ The system is built using an Arduino Uno adn powered by a 9V battery. It uses an
 - Jumper Wires ( F to M, M to M, F to F)
 - Breadboard (optional)
 
+# Flowchart
+![image](https://github.com/user-attachments/assets/b88d0310-f771-4b53-86cb-16d9158da3f9)
+
 # Schematic Diagram
 ![WhatsApp Image 2025-06-02 at 22 15 19_93b6ac21](https://github.com/user-attachments/assets/a214facf-546f-44d4-b1bd-95fb095cb059)
 
