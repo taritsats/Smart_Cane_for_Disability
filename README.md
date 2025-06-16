@@ -25,6 +25,9 @@ The system is built using an Arduino Uno adn powered by a 9V battery. It uses an
 # Schematic Diagram
 ![WhatsApp Image 2025-06-02 at 22 15 19_93b6ac21](https://github.com/user-attachments/assets/a214facf-546f-44d4-b1bd-95fb095cb059)
 
+# System Photo
+![WhatsApp Image 2025-06-16 at 12 06 59_27db9bcb](https://github.com/user-attachments/assets/26d83cf2-0964-44ba-9589-dabf3d6a11aa)
+
 # How It Works
 1. When the device is powered on, the ultrasonic sensor continously emits ultrasonic pulses.
 2. These pulses travel through the air and reflect back if they hit an obstacle.
