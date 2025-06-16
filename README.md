@@ -1,4 +1,4 @@
-# smart-cane-for-disability
+# Smart Cane for Disability
 Smart Cane for Disability is a smart assistive device designed for visually impaired individuls. This project utilies ultrasonic sensors to detect obstacles in real time and provides alerts via vibration and sound. Developed as part of an Embedded System course project.
 
 # Features
